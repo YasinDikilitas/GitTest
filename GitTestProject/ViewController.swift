@@ -14,6 +14,7 @@ class ViewController: UIViewController {
      
         print("GitTest")
         print("GitTest2")
+        print("GitTest3")
     }
 
 
